@@ -1,0 +1,16 @@
+# --- Modelo y Machine Learning (Colpali) ---
+torch
+transformers
+accelerate
+Pillow
+numpy
+pydantic
+colpali-engine>=0.2.0
+# --- Dependencias del Modelo ColQwen ---
+sentencepiece
+einops
+# --- Framework de API ---astapi
+uvicorn[standard]
+python-dotenv
+# --- Optimización de Rendimiento en GPU ---
+flash-attn --no-build-isolation

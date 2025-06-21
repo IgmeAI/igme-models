@@ -1,0 +1,1 @@
+12 GB de VRAM (e.g., RTX 3080, A4000)
