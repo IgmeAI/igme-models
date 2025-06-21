@@ -12,3 +12,4 @@ einops
 # --- Framework de API ---astapi
 uvicorn[standard]
 python-dotenv
+fastapi
