@@ -12,5 +12,3 @@ einops
 # --- Framework de API ---astapi
 uvicorn[standard]
 python-dotenv
-# --- Optimización de Rendimiento en GPU ---
-flash-attn --no-build-isolation
