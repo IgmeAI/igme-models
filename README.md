@@ -1,4 +1,15 @@
+# 🚀 Despliegue de Modelos en la Nube - Configuración Óptima
 
+**Implementa modelos de IA en la nube con máxima eficiencia**  
+Este repositorio contiene la configuración esencial para desplegar servicios de embedding y modelos de lenguaje en entornos cloud, optimizado para GPUs de alto rendimiento (24GB+ VRAM). Incluye:
+
+- 🔐 Gestión segura de claves API y tokens
+- 🐳 Configuración lista para Docker/RunPod
+- 🤖 Soporte para modelos de HuggingFace
+- ⚡ Endpoints API con Uvicorn
+- 📊 Monitorización integrada
+
+**Requisitos mínimos:** GPU con arquitectura CUDA ≥ 8.0 (recomendado RTX 3080/A4000+)
 
 ## 🔐 Configuración del Entorno
 
